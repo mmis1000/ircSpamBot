@@ -1,0 +1,14 @@
+{
+  "author": [
+    {
+      "name": "mmis1000"
+    }
+  ],
+  "name": "ircSpamBot",
+  "description": "node irc tests",
+  "main": "./index.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "irc": "~0.3.7"
+  }
+}
