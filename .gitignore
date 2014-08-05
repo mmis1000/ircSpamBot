@@ -34,3 +34,8 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# NodeJs Files
+node_modules
+npm-debug.log
+temp
